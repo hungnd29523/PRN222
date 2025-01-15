@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{226D3915-AD86-4061-A6F3-3E1BB78FE93A}|Task Demonstration - 04\\Task Demonstration - 04.csproj|d:\\prn222\\code\\slot3\\task demonstration\\task demonstration - 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226D3915-AD86-4061-A6F3-3E1BB78FE93A}|Task Demonstration - 04\\Task Demonstration - 04.csproj|solutionrelative:task demonstration - 04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CA461E-FCCB-46D2-BE9F-6BA2B3E77023}|Task Demonstration - 03\\Task Demonstration - 03.csproj|d:\\prn222\\code\\slot3\\task demonstration\\task demonstration - 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CA461E-FCCB-46D2-BE9F-6BA2B3E77023}|Task Demonstration - 03\\Task Demonstration - 03.csproj|solutionrelative:task demonstration - 03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A35B7A10-B227-4206-8EF6-03D292E1A010}|Task Demonstration - 02\\Task Demonstration - 02.csproj|d:\\prn222\\code\\slot3\\task demonstration\\task demonstration - 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A35B7A10-B227-4206-8EF6-03D292E1A010}|Task Demonstration - 02\\Task Demonstration - 02.csproj|solutionrelative:task demonstration - 02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BB701E-2403-4952-A7C7-659CFF7E1D1C}|Task Demonstration - 01\\Task Demonstration - 01.csproj|d:\\prn222\\code\\slot3\\task demonstration\\task demonstration - 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BB701E-2403-4952-A7C7-659CFF7E1D1C}|Task Demonstration - 01\\Task Demonstration - 01.csproj|solutionrelative:task demonstration - 01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 04\\Program.cs",
+              "RelativeDocumentMoniker": "Task Demonstration - 04\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 04\\Program.cs",
+              "RelativeToolTip": "Task Demonstration - 04\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:12:37.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 03\\Program.cs",
+              "RelativeDocumentMoniker": "Task Demonstration - 03\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 03\\Program.cs",
+              "RelativeToolTip": "Task Demonstration - 03\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:02:33.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 02\\Program.cs",
+              "RelativeDocumentMoniker": "Task Demonstration - 02\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 02\\Program.cs",
+              "RelativeToolTip": "Task Demonstration - 02\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:56:01.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 01\\Program.cs",
+              "RelativeDocumentMoniker": "Task Demonstration - 01\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot3\\Task Demonstration\\Task Demonstration - 01\\Program.cs",
+              "RelativeToolTip": "Task Demonstration - 01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T07:44:38.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
