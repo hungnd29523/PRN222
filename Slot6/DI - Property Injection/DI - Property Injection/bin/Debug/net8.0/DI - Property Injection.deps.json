@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DI - Property Injection/1.0.0": {
+        "runtime": {
+          "DI - Property Injection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DI - Property Injection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\bin\Debug\net8.0\Demo_DL_Constructor_Injection.exe
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\bin\Debug\net8.0\Demo_DL_Constructor_Injection.deps.json
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\bin\Debug\net8.0\Demo_DL_Constructor_Injection.runtimeconfig.json
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\bin\Debug\net8.0\Demo_DL_Constructor_Injection.dll
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\bin\Debug\net8.0\Demo_DL_Constructor_Injection.pdb
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.dll
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\refint\Demo_DL_Constructor_Injection.dll
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.pdb
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\Demo_DL_Constructor_Injection.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\Demo_DL_Constructor_Injection\Demo_DL_Constructor_Injection\obj\Debug\net8.0\ref\Demo_DL_Constructor_Injection.dll

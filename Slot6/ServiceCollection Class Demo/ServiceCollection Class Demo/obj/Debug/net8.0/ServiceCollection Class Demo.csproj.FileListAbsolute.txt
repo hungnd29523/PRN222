@@ -1,0 +1,18 @@
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.exe
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.deps.json
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.runtimeconfig.json
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.dll
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\ServiceCollection Class Demo.pdb
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.csproj.AssemblyReference.cache
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceC.FE598426.Up2Date
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.dll
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\refint\ServiceCollection Class Demo.dll
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.pdb
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ServiceCollection Class Demo.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\ServiceCollection Class Demo\ServiceCollection Class Demo\obj\Debug\net8.0\ref\ServiceCollection Class Demo.dll

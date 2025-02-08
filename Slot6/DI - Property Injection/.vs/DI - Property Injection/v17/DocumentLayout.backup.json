@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|d:\\prn222\\code\\slot5\\di - property injection\\di - property injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|solutionrelative:di - property injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|d:\\prn222\\code\\slot5\\di - property injection\\di - property injection\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|solutionrelative:di - property injection\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|d:\\prn222\\code\\slot5\\di - property injection\\di - property injection\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA10FA24-9B0E-47D2-8E14-208C81FBCB3A}|DI - Property Injection\\DI - Property Injection.csproj|solutionrelative:di - property injection\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "DI - Property Injection\\Model\\Employee.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Model\\Employee.cs",
+              "RelativeToolTip": "DI - Property Injection\\Model\\Employee.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:13:28.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "DI - Property Injection\\Model\\Department.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Model\\Department.cs",
+              "RelativeToolTip": "DI - Property Injection\\Model\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:13:01.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Program.cs",
+              "RelativeDocumentMoniker": "DI - Property Injection\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\DI - Property Injection\\DI - Property Injection\\Program.cs",
+              "RelativeToolTip": "DI - Property Injection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:12:19.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

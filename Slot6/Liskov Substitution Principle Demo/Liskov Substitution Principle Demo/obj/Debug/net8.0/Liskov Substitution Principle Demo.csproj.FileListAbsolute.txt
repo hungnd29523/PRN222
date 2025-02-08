@@ -1,0 +1,17 @@
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Liskov Substitution Principle Demo.exe
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Liskov Substitution Principle Demo.deps.json
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Liskov Substitution Principle Demo.runtimeconfig.json
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Liskov Substitution Principle Demo.dll
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Liskov Substitution Principle Demo.pdb
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.csproj.AssemblyReference.cache
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov S.84D44585.Up2Date
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.dll
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\refint\Liskov Substitution Principle Demo.dll
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.pdb
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\Liskov Substitution Principle Demo.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\Liskov Substitution Principle Demo\Liskov Substitution Principle Demo\obj\Debug\net8.0\ref\Liskov Substitution Principle Demo.dll

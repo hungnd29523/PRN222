@@ -1,0 +1,17 @@
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.csproj.AssemblyReference.cache
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.exe
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.deps.json
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.runtimeconfig.json
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.dll
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Interface Segregation Principle Demo.pdb
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interfac.98681D6D.Up2Date
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.dll
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\refint\Interface Segregation Principle Demo.dll
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.pdb
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\Interface Segregation Principle Demo.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\Interface Segregation Principle Demo\Interface Segregation Principle Demo\obj\Debug\net8.0\ref\Interface Segregation Principle Demo.dll

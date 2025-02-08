@@ -1,0 +1,17 @@
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.csproj.AssemblyReference.cache
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\OpenClosed Principle Demo.exe
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\OpenClosed Principle Demo.deps.json
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\OpenClosed Principle Demo.runtimeconfig.json
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\OpenClosed Principle Demo.dll
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\OpenClosed Principle Demo.pdb
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClos.D482A23E.Up2Date
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.dll
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\refint\OpenClosed Principle Demo.dll
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.pdb
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\OpenClosed Principle Demo.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\OpenClosed Principle Demo\OpenClosed Principle Demo\obj\Debug\net8.0\ref\OpenClosed Principle Demo.dll

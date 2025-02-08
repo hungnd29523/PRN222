@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EG5I64clCMM=",
+  "success": true,
+  "projectFilePath": "D:\\PRN222\\Code\\Slot5\\ServiceCollection Class Demo\\ServiceCollection Class Demo\\ServiceCollection Class Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anhdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\anhdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

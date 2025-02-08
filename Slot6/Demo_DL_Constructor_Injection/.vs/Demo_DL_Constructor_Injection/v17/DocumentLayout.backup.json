@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|d:\\prn222\\code\\slot5\\demo_dl_constructor_injection\\demo_dl_constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|solutionrelative:demo_dl_constructor_injection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|d:\\prn222\\code\\slot5\\demo_dl_constructor_injection\\demo_dl_constructor_injection\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|solutionrelative:demo_dl_constructor_injection\\model\\businesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|d:\\prn222\\code\\slot5\\demo_dl_constructor_injection\\demo_dl_constructor_injection\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7301C49-C05B-40C6-8647-36A411928FEB}|Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection.csproj|solutionrelative:demo_dl_constructor_injection\\model\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Model\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Demo_DL_Constructor_Injection\\Model\\DataAccessLayer.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Model\\DataAccessLayer.cs",
+              "RelativeToolTip": "Demo_DL_Constructor_Injection\\Model\\DataAccessLayer.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:09:47.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusinessLogicLayer.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Model\\BusinessLogicLayer.cs",
+              "RelativeDocumentMoniker": "Demo_DL_Constructor_Injection\\Model\\BusinessLogicLayer.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Model\\BusinessLogicLayer.cs",
+              "RelativeToolTip": "Demo_DL_Constructor_Injection\\Model\\BusinessLogicLayer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:09:31.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Program.cs",
+              "RelativeDocumentMoniker": "Demo_DL_Constructor_Injection\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Demo_DL_Constructor_Injection\\Demo_DL_Constructor_Injection\\Program.cs",
+              "RelativeToolTip": "Demo_DL_Constructor_Injection\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T04:08:42.993Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

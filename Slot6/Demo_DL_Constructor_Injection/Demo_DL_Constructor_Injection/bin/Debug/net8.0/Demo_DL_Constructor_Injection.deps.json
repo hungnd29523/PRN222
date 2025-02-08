@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Demo_DL_Constructor_Injection/1.0.0": {
+        "runtime": {
+          "Demo_DL_Constructor_Injection.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Demo_DL_Constructor_Injection/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

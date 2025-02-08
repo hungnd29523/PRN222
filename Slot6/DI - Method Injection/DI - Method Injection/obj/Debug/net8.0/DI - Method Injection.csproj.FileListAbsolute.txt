@@ -1,0 +1,18 @@
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\DI - Method Injection.exe
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\DI - Method Injection.deps.json
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\DI - Method Injection.runtimeconfig.json
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\DI - Method Injection.dll
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\DI - Method Injection.pdb
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.csproj.AssemblyReference.cache
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.AssemblyInfoInputs.cache
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.AssemblyInfo.cs
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.csproj.CoreCompileInputs.cache
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Met.803EECBA.Up2Date
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.dll
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\refint\DI - Method Injection.dll
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.pdb
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\DI - Method Injection.genruntimeconfig.cache
+D:\PRN222\Code\Slot5\DI - Method Injection\DI - Method Injection\obj\Debug\net8.0\ref\DI - Method Injection.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SmW7vXCDyVg=",
+  "success": true,
+  "projectFilePath": "D:\\PRN222\\Code\\Slot5\\DI - Method Injection\\DI - Method Injection\\DI - Method Injection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anhdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\anhdo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

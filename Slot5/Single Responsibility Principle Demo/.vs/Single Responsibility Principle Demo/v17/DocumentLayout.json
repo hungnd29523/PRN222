@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|d:\\prn222\\code\\slot5\\single responsibility principle demo\\single responsibility principle demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|solutionrelative:single responsibility principle demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|d:\\prn222\\code\\slot5\\single responsibility principle demo\\single responsibility principle demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|solutionrelative:single responsibility principle demo\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|d:\\prn222\\code\\slot5\\single responsibility principle demo\\single responsibility principle demo\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|solutionrelative:single responsibility principle demo\\data\\bookstore.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|d:\\prn222\\code\\slot5\\single responsibility principle demo\\single responsibility principle demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A6F8AE2-37D8-44BA-B536-BFB0CFCD14CE}|Single Responsibility Principle Demo\\Single Responsibility Principle Demo.csproj|solutionrelative:single responsibility principle demo\\model\\ibook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookStore.json",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Data\\BookStore.json",
+              "RelativeDocumentMoniker": "Single Responsibility Principle Demo\\Data\\BookStore.json",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Data\\BookStore.json",
+              "RelativeToolTip": "Single Responsibility Principle Demo\\Data\\BookStore.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-07T06:53:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "Single Responsibility Principle Demo\\Model\\Book.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Model\\Book.cs",
+              "RelativeToolTip": "Single Responsibility Principle Demo\\Model\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:58:27.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Single Responsibility Principle Demo\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Program.cs",
+              "RelativeToolTip": "Single Responsibility Principle Demo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:57:18.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IBook.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Model\\IBook.cs",
+              "RelativeDocumentMoniker": "Single Responsibility Principle Demo\\Model\\IBook.cs",
+              "ToolTip": "D:\\PRN222\\Code\\Slot5\\Single Responsibility Principle Demo\\Single Responsibility Principle Demo\\Model\\IBook.cs",
+              "RelativeToolTip": "Single Responsibility Principle Demo\\Model\\IBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:02:33.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
