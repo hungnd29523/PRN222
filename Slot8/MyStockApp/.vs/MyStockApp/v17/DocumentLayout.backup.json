@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|d:\\prn222\\code\\prn222\\slot8\\mystockapp\\mystockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B65A333D-2CAE-46C1-8FF2-A2A61B38FC07}|MyStockApp\\MyStockApp.csproj|solutionrelative:mystockapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyStockApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:51:11.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "MyStockApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:50:10.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "MyStockApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:49:31.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "MyStockApp\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:48:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyStockApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MyStockApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-17T13:46:47.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MyStockApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MyStockApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAqwGwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:40:56.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyStockApp\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\Program.cs",
+              "RelativeToolTip": "MyStockApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T13:37:52.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\appsettings.json",
+              "RelativeDocumentMoniker": "MyStockApp\\appsettings.json",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot8\\MyStockApp\\MyStockApp\\appsettings.json",
+              "RelativeToolTip": "MyStockApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T13:31:13.443Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
