@@ -1,0 +1,133 @@
+﻿@model IEnumerable<NguyenDanhHungMVC.Models.NewsArticle>
+
+@{
+	ViewData["Title"] = "View";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h1>NewsArticle</h1>
+
+<table class="table">
+	<thead>
+		<tr>
+			<th>
+				@Html.DisplayNameFor(model => model.NewsTitle)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.Headline)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.CreatedDate)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.NewsContent)
+			</th>
+			<th>
+				@Html.DisplayNameFor(model => model.NewsSource)
+			</th>
+			
+			<th></th>
+		</tr>
+	</thead>
+	<tbody>
+		@foreach (var item in Model)
+		{
+			<tr>
+				<td>
+					@Html.DisplayFor(modelItem => item.NewsTitle)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.Headline)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.CreatedDate)
+				</td>
+				<td>
+					@Html.DisplayFor(modelItem => item.NewsContent)
+				</td>
+				<td>
+					@(item.NewsSource ?? "N/A")
+
+				</td>
+
+				<td>
+					<a asp-action="Details" asp-route-id="@item.NewsArticleId">Details</a>
+					<button type="button" class="btn btn-info btn-sm" onclick="toggleTags('@item.NewsArticleId')">Show Tags</button>
+
+				</td>
+
+
+
+			</tr>
+			<tr id="tags-row-@item.NewsArticleId" style="display: none;">
+				<td colspan="9">
+					<strong>Tags:</strong>
+					@if (item.Tags != null && item.Tags.Any())
+					{
+						@string.Join(", ", item.Tags.Select(t => t.TagName))
+					}
+					else
+					{
+						<span>No Tags</span>
+					}
+				</td>
+			</tr>
+		}
+	</tbody>
+</table>
+<div class="modal fade" id="tagModal">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<h5 class="modal-title">Manage Tags</h5>
+				<button type="button" class="btn-close" data-bs-dismiss="modal"></button>
+			</div>
+			<div class="modal-body">
+				<form id="tagForm">
+					<input type="hidden" id="selectedArticleId" />
+					<div id="tagListContainer"></div>
+				</form>
+			</div>
+			<div class="modal-footer">
+				<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+				<button type="button" class="btn btn-primary" onclick="saveTags()">Save Changes</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+<script>
+	function openTagModal(newsArticleId) {
+		$('#selectedArticleId').val(newsArticleId);
+
+		$.get('/NewsArticle/GetTags', { id: newsArticleId }, function (data) {
+			let tagListHtml = '';
+
+			data.allTags.forEach(tag => {
+				let isChecked = data.articleTags.includes(tag.tagId) ? 'checked' : '';
+				tagListHtml += `
+					<div class="form-check">
+						<input type="checkbox" class="form-check-input tag-checkbox" id="tag-${tag.tagId}" value="${tag.tagId}" ${isChecked}>
+						<label class="form-check-label" for="tag-${tag.tagId}">${tag.tagName}</label>
+					</div>
+				`;
+			});
+
+			$('#tagListContainer').html(tagListHtml);
+			$('#tagModal').modal('show');
+		});
+	}
+
+	
+		function toggleTags(newsArticleId) {
+		let tagRow = document.getElementById(`tags-row-${newsArticleId}`);
+		if (tagRow.style.display === "none") {
+			tagRow.style.display = "table-row";
+		} else {
+			tagRow.style.display = "none";
+		}
+	}
+
+</script>
+

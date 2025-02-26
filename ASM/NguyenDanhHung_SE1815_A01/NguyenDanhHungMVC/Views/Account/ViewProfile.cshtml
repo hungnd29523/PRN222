@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "ViewProfile";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@model NguyenDanhHungMVC.Models.SystemAccount
+
+
+<h2>Profile</h2>
+
+<div>
+    <p><strong>Name:</strong> @Model.AccountName</p>
+    <p><strong>Email:</strong> @Model.AccountEmail</p>
+    <p><strong>Role:</strong> @(Model.AccountRole == 1 ? "Lecturer" : "Staff")</p>
+</div>
+
+<a asp-controller="Account" asp-action="EditProfile" asp-route-id="@Model.AccountId">Edit Profile</a>
+
+
+

@@ -1,0 +1,12 @@
+﻿@model TagSelectionViewModel
+
+@foreach (var tag in Model.AllTags)
+{
+    <div>
+        <input type="checkbox"
+               id="tag-@tag.TagId"
+        @(Model.SelectedTagIds.Contains(tag.TagId) ? "checked" : "")
+               onchange="toggleTag('@Model.NewsArticleId', @tag.TagId, this.checked)">
+        <label for="tag-@tag.TagId">@tag.TagName</label>
+    </div>
+}
