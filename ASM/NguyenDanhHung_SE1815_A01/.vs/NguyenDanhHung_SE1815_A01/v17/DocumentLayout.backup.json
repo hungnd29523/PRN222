@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|d:\\prn222\\code\\prn222\\asm\\nguyendanhhung_se1815_a01\\nguyendanhhungmvc\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|solutionrelative:nguyendanhhungmvc\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|d:\\prn222\\code\\prn222\\asm\\nguyendanhhung_se1815_a01\\nguyendanhhungmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|solutionrelative:nguyendanhhungmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|d:\\prn222\\code\\prn222\\asm\\nguyendanhhung_se1815_a01\\nguyendanhhungmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|solutionrelative:nguyendanhhungmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|d:\\prn222\\code\\prn222\\asm\\nguyendanhhung_se1815_a01\\nguyendanhhungmvc\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|solutionrelative:nguyendanhhungmvc\\repositories\\newsarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{357FAB56-9AE8-4782-B270-9A94D835C685}|NguyenDanhHungMVC\\NguyenDanhHungMVC.csproj|d:\\prn222\\code\\prn222\\asm\\nguyendanhhung_se1815_a01\\nguyendanhhungmvc\\controllers\\newsarticlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,24 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:58:26.393Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\appsettings.json",
               "RelativeDocumentMoniker": "NguyenDanhHungMVC\\appsettings.json",
@@ -67,12 +54,11 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-26T06:55:30.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:55:30.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Program.cs",
               "RelativeDocumentMoniker": "NguyenDanhHungMVC\\Program.cs",
@@ -80,21 +66,32 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T06:55:28.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:55:28.176Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "NewsArticleRepository.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Repositories\\NewsArticleRepository.cs",
               "RelativeDocumentMoniker": "NguyenDanhHungMVC\\Repositories\\NewsArticleRepository.cs",
               "ToolTip": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Repositories\\NewsArticleRepository.cs",
               "RelativeToolTip": "NguyenDanhHungMVC\\Repositories\\NewsArticleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T06:54:31.05Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\ASM\\NguyenDanhHung_SE1815_A01\\NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NguyenDanhHungMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-26T06:58:26.393Z"
             },
             {
               "$type": "Document",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\Controllers\\NewsArticleController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T06:54:07.508Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:54:07.508Z"
             },
             {
               "$type": "Document",
@@ -119,8 +115,7 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\Controllers\\LecturerController.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T06:52:40.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:52:40.603Z"
             },
             {
               "$type": "Document",
@@ -132,8 +127,7 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\Views\\Lecturer\\Index.cshtml",
               "ViewState": "AgIAAFMAAAAAAAAAAAAYwIUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:52:37.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:52:37.372Z"
             },
             {
               "$type": "Document",
@@ -145,8 +139,7 @@
               "RelativeToolTip": "NguyenDanhHungMVC\\Views\\Lecturer\\Details.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-26T06:52:30.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T06:52:30.737Z"
             }
           ]
         }
