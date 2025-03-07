@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\customerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\customerform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\customerform.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\validation\\customervalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|solutionrelative:razorpagesdemo\\pages\\uploadfiles.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66B0EF8C-A36F-49BA-AE55-82C9D2F412BD}|RazorPagesDemo\\RazorPagesDemo.csproj|d:\\prn222\\code\\prn222\\slot12\\razorpagesdemo\\razorpagesdemo\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,24 +46,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CustomerForm.cshtml.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\CustomerForm.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Pages\\CustomerForm.cshtml.cs",
               "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\CustomerForm.cshtml.cs",
               "RelativeToolTip": "RazorPagesDemo\\Pages\\CustomerForm.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T06:46:31.912Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Pages\\Shared\\_Layout.cshtml",
@@ -71,12 +71,11 @@
               "RelativeToolTip": "RazorPagesDemo\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T06:45:02.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T06:45:02.347Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CustomerValidation.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Validation\\CustomerValidation.cs",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Validation\\CustomerValidation.cs",
@@ -89,20 +88,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CustomerForm.cshtml",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\CustomerForm.cshtml",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Pages\\CustomerForm.cshtml",
               "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\CustomerForm.cshtml",
               "RelativeToolTip": "RazorPagesDemo\\Pages\\CustomerForm.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-28T10:23:42.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UploadFiles.cshtml",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\UploadFiles.cshtml",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Pages\\UploadFiles.cshtml",
@@ -110,8 +109,7 @@
               "RelativeToolTip": "RazorPagesDemo\\Pages\\UploadFiles.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-28T10:24:16.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:24:16.862Z"
             },
             {
               "$type": "Document",
@@ -123,12 +121,11 @@
               "RelativeToolTip": "RazorPagesDemo\\Models\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:21:30.342Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:21:30.342Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Program.cs",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Program.cs",
@@ -136,12 +133,11 @@
               "RelativeToolTip": "RazorPagesDemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:14:59.722Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:14:59.722Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "UploadFiles.cshtml.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot12\\RazorPagesDemo\\RazorPagesDemo\\Pages\\UploadFiles.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPagesDemo\\Pages\\UploadFiles.cshtml.cs",
@@ -162,8 +158,7 @@
               "RelativeToolTip": "RazorPagesDemo\\Binding\\CheckNameBinding.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwDQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T10:20:47.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-28T10:20:47.956Z"
             }
           ]
         }
