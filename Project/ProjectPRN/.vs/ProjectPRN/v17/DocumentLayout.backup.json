@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageSharingAppContext.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\ImageSharingAppContext.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\ImageSharingAppContext.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\ImageSharingAppContext.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\ImageSharingAppContext.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:40:26.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjectPRN\\appsettings.json",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\appsettings.json",
+              "RelativeToolTip": "ProjectPRN\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:27:06.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
+              "RelativeToolTip": "ProjectPRN\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:27:04.272Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
