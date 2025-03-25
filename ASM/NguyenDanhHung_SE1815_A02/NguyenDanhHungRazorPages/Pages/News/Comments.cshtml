@@ -1,0 +1,185 @@
+﻿@page "{newsId}"
+@model NguyenDanhHungRazorPages.Pages.News.CommentsModel
+@{
+    ViewData["Title"] = "Comments";
+}
+
+<h2>Comments for News ID: @Model.NewsId</h2>
+
+<div>
+    <input type="hidden" id="newsId" value="@Model.NewsId" />
+    <textarea id="commentInput" class="form-control" placeholder="Write a comment..."></textarea>
+    <button id="sendComment" class="btn btn-primary mt-2">Send</button>
+</div>
+
+<ul id="commentList" class="list-group mt-3">
+    @foreach (var comment in Model.Comments)
+    {
+        <li class="list-group-item" id="comment-@comment.Id">
+            <strong>@comment.User?.AccountName</strong> (@comment.CreatedAt?.ToString("yyyy-MM-dd HH:mm"))
+            <p id="content-@comment.Id">@comment.Content</p>
+
+            <!-- Input để chỉnh sửa -->
+            <input type="text" id="edit-input-@comment.Id" class="form-control d-none" value="@comment.Content" />
+
+            @if (Model.CurrentUserId == comment.UserId || Model.IsAdmin)
+            {
+                <button class="btn btn-warning btn-sm edit-comment" data-id="@comment.Id">Edit</button>
+                <button class="btn btn-success btn-sm save-edit d-none" data-id="@comment.Id">Save</button>
+                <button class="btn btn-danger btn-sm delete-comment" data-id="@comment.Id">Delete</button>
+            }
+        </li>
+    }
+</ul>
+
+
+
+<a asp-page="Index" class="btn btn-secondary mt-3">Back to News</a>
+
+@section Scripts {
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/microsoft-signalr/7.0.5/signalr.min.js"></script>
+    <script>
+        var connection = new signalR.HubConnectionBuilder()
+            .withUrl("/commentHub")
+            .build();
+
+        connection.start().catch(err => console.error(err.toString()));
+
+        document.getElementById("sendComment").addEventListener("click", function () {
+            var newsId = document.getElementById("newsId").value;
+            var content = document.getElementById("commentInput").value;
+            var userId = "@Model.CurrentUserId";
+
+            if (content.trim() !== "") {
+                connection.invoke("SendComment", newsId, userId, content).catch(err => console.error(err.toString()));
+                document.getElementById("commentInput").value = "";
+            }
+        });
+          var currentUserName = sessionStorage.getItem("UserName") || "Guest";
+                   connection.on("ReceiveComment", function (comment) {
+            var commentList = document.getElementById("commentList");
+            var li = document.createElement("li");
+            li.className = "list-group-item";
+            li.id = "comment-" + comment.id;
+
+            // Kiểm tra nếu bình luận mới từ người dùng hiện tại thì dùng tên từ Model
+            var username = (comment.userId == "@Model.CurrentUserId") ? currentUserName : comment.username;
+
+            li.innerHTML = `<strong>${username}</strong> (${comment.createdAt})<p>${comment.content}</p>`;
+            commentList.prepend(li);
+        });
+
+
+        connection.on("RemoveComment", function (commentId) {
+            var commentElement = document.getElementById("comment-" + commentId);
+            if (commentElement) {
+                commentElement.remove();
+            }
+        });
+    </script>
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var connection = new signalR.HubConnectionBuilder().withUrl("/commentHub").build();
+            connection.start().catch(err => console.error("SignalR Connection Error:", err.toString()));
+
+            // Xử lý nút Edit
+            document.querySelectorAll(".edit-comment").forEach(button => {
+                button.addEventListener("click", function () {
+                    var commentId = this.getAttribute("data-id");
+                    console.log("Edit button clicked for commentId:", commentId);
+                    document.getElementById("edit-input-" + commentId).classList.remove("d-none");
+                    document.querySelector(`[data-id="${commentId}"].save-edit`).classList.remove("d-none");
+                    this.classList.add("d-none");
+                });
+            });
+
+            // Xử lý nút Save
+            document.querySelectorAll(".save-edit").forEach(button => {
+                button.addEventListener("click", function () {
+                    var commentId = this.getAttribute("data-id");
+                    var newContent = document.getElementById("edit-input-" + commentId).value;
+                    console.log("Save clicked for:", commentId, "New Content:", newContent);
+                    connection.invoke("EditComment", parseInt(commentId), newContent)
+                        .catch(err => console.error("EditComment Error:", err.toString()));
+                });
+            });
+
+            // Xử lý cập nhật comment
+            connection.on("UpdateComment", function (comment) {
+                console.log("UpdateComment received:", comment);
+                document.getElementById("content-" + comment.id).innerText = comment.content;
+                document.getElementById("edit-input-" + comment.id).classList.add("d-none");
+                document.querySelector(`[data-id="${comment.id}"].save-edit`).classList.add("d-none");
+                document.querySelector(`[data-id="${comment.id}"].edit-comment`).classList.remove("d-none");
+            });
+
+            // Xử lý nút Delete
+            document.querySelectorAll(".delete-comment").forEach(button => {
+                button.addEventListener("click", function () {
+                    var commentId = this.getAttribute("data-id");
+                    console.log("Delete button clicked for commentId:", commentId);
+                    if (confirm("Are you sure you want to delete this comment?")) {
+                        connection.invoke("DeleteComment", parseInt(commentId))
+                            .catch(err => console.error("DeleteComment Error:", err.toString()));
+                    }
+                });
+            });
+
+            // Xử lý xóa bình luận
+            connection.on("RemoveComment", function (commentId) {
+                console.log("RemoveComment received:", commentId);
+                var commentElement = document.getElementById("comment-" + commentId);
+                if (commentElement) {
+                    commentElement.remove();
+                }
+            });
+        });
+    </script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var connection = new signalR.HubConnectionBuilder().withUrl("/commentHub").build();
+            connection.start().catch(err => console.error("SignalR Connection Error:", err.toString()));
+
+            // Xử lý nút Edit
+            document.querySelectorAll(".edit-comment").forEach(button => {
+                button.addEventListener("click", function () {
+                    var commentId = this.getAttribute("data-id");
+                    console.log("Edit button clicked for commentId:", commentId);
+                    document.getElementById("edit-input-" + commentId).classList.remove("d-none");
+                    document.querySelector(`[data-id="${commentId}"].save-edit`).classList.remove("d-none");
+                    this.classList.add("d-none");
+                });
+            });
+
+            // Xử lý nút Save
+            document.querySelectorAll(".save-edit").forEach(button => {
+                button.addEventListener("click", function () {
+                    var commentId = this.getAttribute("data-id");
+                    var newContent = document.getElementById("edit-input-" + commentId).value;
+                    console.log("Save clicked for:", commentId, "New Content:", newContent);
+
+                    if (newContent.trim() !== "") {
+                        connection.invoke("EditComment", parseInt(commentId), newContent)
+                            .catch(err => console.error("EditComment Error:", err.toString()));
+                    }
+                });
+            });
+
+            // Nhận sự kiện từ server khi bình luận được cập nhật
+            connection.on("UpdateComment", function (comment) {
+                console.log("UpdateComment received:", comment);
+
+                // Cập nhật nội dung hiển thị trên trang mà không cần reload
+                document.getElementById("content-" + comment.id).innerText = comment.content;
+
+                // Ẩn input và hiển thị lại nút Edit
+                document.getElementById("edit-input-" + comment.id).classList.add("d-none");
+                document.querySelector(`[data-id="${comment.id}"].save-edit`).classList.add("d-none");
+                document.querySelector(`[data-id="${comment.id}"].edit-comment`).classList.remove("d-none");
+            });
+
+        });
+    </script>
+
+}

@@ -1,0 +1,29 @@
+﻿@page
+@model ChatHub
+
+@{
+    ViewData["Title"] = "Chat System";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-3">
+            <input type="text" id="userInput" placeholder="User" />
+        </div>
+        <div class="col-6">
+            <input type="text" id="messageInput" placeholder="Type a message" />
+        </div>
+        <div class="col-3">
+            <input type="button" id="sendButton" value="Send Message" />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+
+    <script src="~/js/site.js"></script>
+    <script src="~/microsoft/signalr/dist/browser/signalr.js"></script>
+

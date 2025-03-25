@@ -1,0 +1,47 @@
+﻿@page
+@model NguyenDanhHungRazorPages.Pages.News.Lecturer
+
+<h2 class="mb-3">News List</h2>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>News Content</th>
+            <th>News Source</th>
+            <th>Category</th>
+            <th>Tags</th>
+            <th>Action</th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var news in Model.NewsArticles)
+        {
+            <tr>
+                <td>@news.NewsTitle</td>
+                <td>@news.Headline</td>
+                <td>@news.CreatedDate</td>
+                <td class="text-truncate" style="max-width: 200px;">@news.NewsContent</td>
+                <td>@news.NewsSource</td>
+                <td>@news.Category?.CategoryName</td>
+                <td>
+                    @if (news.Tags != null && news.Tags.Any())
+                    {
+                        @string.Join(", ", news.Tags.Select(t => t.TagName))
+                    }
+                    else
+                    {
+                        <span>No Tags</span>
+                    }
+                </td>
+                <td>
+                    <a asp-page="Comments" asp-route-newsId="@news.NewsArticleId" class="btn btn-info btn-sm">View Comments</a>
+                   
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

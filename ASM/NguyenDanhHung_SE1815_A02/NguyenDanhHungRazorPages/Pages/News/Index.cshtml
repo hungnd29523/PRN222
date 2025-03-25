@@ -1,0 +1,63 @@
+﻿@page
+@model NguyenDanhHungRazorPages.Pages.News.IndexModel
+
+<h2 class="mb-4">News List</h2>
+
+<form method="get" class="d-flex gap-2 mb-3">
+    <input type="text" name="SearchTerm" class="form-control w-25" placeholder="Search by Title" value="@Model.SearchTerm" />
+    <select name="SortByIdAsc" class="form-select w-25">
+        <option value="true" selected="@(Model.SortByIdAsc ? "selected" : null)">Sort by ID Ascending</option>
+        <option value="false" selected="@(Model.SortByIdAsc ? null : "selected")">Sort by ID Descending</option>
+    </select>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<a asp-page="Create" class="btn btn-success mb-3">Create New</a>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Headline</th>
+            <th>Created Date</th>
+            <th>Category</th>
+            <th>Status</th>
+            <th>Tags</th> <!-- Thêm cột Tags -->
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var news in Model.NewsArticles)
+        {
+            <tr>
+                <td>@news.NewsArticleId</td>
+                <td>@news.NewsTitle</td>
+                <td>@news.Headline</td>
+                <td>@news.CreatedDate</td>
+                <td>@news.Category?.CategoryName</td>
+                <td>@(news.NewsStatus == true ? "Active" : "Inactive")</td>
+                <td>
+                    @if (news.Tags != null && news.Tags.Any())
+                    {
+                        @string.Join(", ", news.Tags.Select(t => t.TagName))
+                    }
+                    else
+                    {
+                        <span>No Tags</span>
+                    }
+                </td>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-page="Edit" asp-route-id="@news.NewsArticleId" class="btn btn-warning btn-sm">Edit</a>
+                        <a asp-page="Comments" asp-route-newsId="@news.NewsArticleId" class="btn btn-info btn-sm">Comments</a>
+                        <form asp-page="Delete" method="post" class="d-inline" onsubmit="return confirm('Are you sure?')">
+                            <input type="hidden" name="NewsArticleId" value="@news.NewsArticleId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

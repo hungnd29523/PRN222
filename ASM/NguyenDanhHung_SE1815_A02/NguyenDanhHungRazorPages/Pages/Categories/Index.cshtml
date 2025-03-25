@@ -1,0 +1,49 @@
+﻿@page
+@model NguyenDanhHungRazorPages.Pages.Categories.IndexModel
+@{
+    ViewData["Title"] = "Category List";
+}
+
+<h2 class="mb-4">Category List</h2>
+
+<div class="d-flex justify-content-between mb-3">
+    <a asp-page="Create" class="btn btn-success">Create New</a>
+    <form method="get" class="d-flex gap-2">
+        <input type="text" id="search" name="Search" value="@Model.Search" class="form-control" placeholder="Enter category name">
+        <select id="sort" name="SortByIdAsc" class="form-select">
+            <option value="true" selected="@(Model.SortByIdAsc ? "selected" : null)">Ascending</option>
+            <option value="false" selected="@(Model.SortByIdAsc ? null : "selected")">Descending</option>
+        </select>
+        <button type="submit" class="btn btn-primary">Search</button>
+    </form>
+</div>
+
+<table class="table table-bordered table-striped">
+    <thead class="table-dark">
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var category in Model.Categories)
+        {
+            <tr>
+                <td>@category.CategoryId</td>
+                <td>@category.CategoryName</td>
+                <td>@category.CategoryDesciption</td>
+                <td>
+                    <div class="d-flex gap-2">
+                        <a asp-page="Edit" asp-route-id="@category.CategoryId" class="btn btn-warning btn-sm">Edit</a>
+                        <form asp-page="Delete" method="post" class="d-inline" onsubmit="return confirm('Are you sure?')">
+                            <input type="hidden" name="CategoryId" value="@category.CategoryId" />
+                            <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                        </form>
+                    </div>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

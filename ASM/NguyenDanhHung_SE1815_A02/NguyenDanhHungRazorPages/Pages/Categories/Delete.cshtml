@@ -1,0 +1,10 @@
+﻿@page
+@model NguyenDanhHungRazorPages.Pages.Categories.DeleteModel
+<h2>Are you sure you want to delete this category?</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="CategoryId" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a asp-page="Index" class="btn btn-secondary">Cancel</a>
+</form>

@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\repository\\ifaqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\repository\\ifaqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\service\\faqsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\service\\faqsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\controllers\\faqscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\controllers\\faqscontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\repository\\faqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\repository\\faqsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\service\\ifaqsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\service\\ifaqsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|d:\\prn222\\code\\prn222\\slot15\\demoswd\\demoswd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D2404EF-4498-4AA0-BE00-48A02375B3AB}|DemoSWD\\DemoSWD.csproj|solutionrelative:demoswd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "DemoSWD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:13:45.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FAQsController .cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Controllers\\FAQsController .cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Controllers\\FAQsController .cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Controllers\\FAQsController .cs",
+              "RelativeToolTip": "DemoSWD\\Controllers\\FAQsController .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:13:14.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IFAQsRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Repository\\IFAQsRepository.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Repository\\IFAQsRepository.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Repository\\IFAQsRepository.cs*",
+              "RelativeToolTip": "DemoSWD\\Repository\\IFAQsRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:13:01.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FAQsService.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Service\\FAQsService.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Service\\FAQsService.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Service\\FAQsService.cs",
+              "RelativeToolTip": "DemoSWD\\Service\\FAQsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:12:57.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FAQsRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Repository\\FAQsRepository.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Repository\\FAQsRepository.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Repository\\FAQsRepository.cs",
+              "RelativeToolTip": "DemoSWD\\Repository\\FAQsRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:12:53.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFAQsService.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Service\\IFAQsService.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Service\\IFAQsService.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Service\\IFAQsService.cs",
+              "RelativeToolTip": "DemoSWD\\Service\\IFAQsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:12:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DemoSWD\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Slot15\\DemoSWD\\DemoSWD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DemoSWD\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T07:13:44.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
