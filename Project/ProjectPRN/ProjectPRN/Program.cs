@@ -1,12 +1,16 @@
 using Microsoft.EntityFrameworkCore;
 using ProjectPRN.Models;
+using ProjectPRN.Repository;
+using ProjectPRN.Service;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddDbContext<ImageSharingAppContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DBContext")));
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-
+builder.Services.AddSession();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IUserService, UserService>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -23,7 +27,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
-
+app.UseSession();
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");

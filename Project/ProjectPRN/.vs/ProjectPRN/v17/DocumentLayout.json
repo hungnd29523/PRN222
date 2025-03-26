@@ -3,12 +3,64 @@
   "WorkspaceRootPath": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\service\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\service\\userservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\repository\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\repository\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\imagesharingappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|solutionrelative:projectprn\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3FA833FC-A3A1-4750-867A-66C6B82FA5DB}|ProjectPRN\\ProjectPRN.csproj|d:\\prn222\\code\\prn222\\project\\projectprn\\projectprn\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -22,24 +74,206 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:45:14.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:45:13.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:29:14.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProjectPRN\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:36:23.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:38:00.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T09:29:31.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProjectPRN\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProjectPRN\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T08:39:41.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Repository\\UserRepository .cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Repository\\UserRepository .cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Repository\\UserRepository .cs",
+              "RelativeToolTip": "ProjectPRN\\Repository\\UserRepository .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:25:30.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ProjectPRN\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:27:09.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserService .cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Service\\UserService .cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Service\\UserService .cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Service\\UserService .cs",
+              "RelativeToolTip": "ProjectPRN\\Service\\UserService .cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAEwCIAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:26:22.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "ProjectPRN\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:24:56.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Program.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
+              "RelativeToolTip": "ProjectPRN\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:42:19.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Models\\User.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\User.cs",
+              "RelativeToolTip": "ProjectPRN\\Models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:24:04.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "ImageSharingAppContext.cs",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\ImageSharingAppContext.cs",
               "RelativeDocumentMoniker": "ProjectPRN\\Models\\ImageSharingAppContext.cs",
               "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Models\\ImageSharingAppContext.cs",
               "RelativeToolTip": "ProjectPRN\\Models\\ImageSharingAppContext.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIUAAAAAAAAAAADwv5QAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T07:40:26.123Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "ProjectPRN\\Service\\IUserService.cs",
+              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Service\\IUserService.cs",
+              "RelativeToolTip": "ProjectPRN\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:26:13.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\appsettings.json",
               "RelativeDocumentMoniker": "ProjectPRN\\appsettings.json",
@@ -47,21 +281,7 @@
               "RelativeToolTip": "ProjectPRN\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-25T07:27:06.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
-              "RelativeDocumentMoniker": "ProjectPRN\\Program.cs",
-              "ToolTip": "D:\\PRN222\\Code\\PRN222\\Project\\ProjectPRN\\ProjectPRN\\Program.cs",
-              "RelativeToolTip": "ProjectPRN\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T07:27:04.272Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T07:27:06.16Z"
             }
           ]
         }
